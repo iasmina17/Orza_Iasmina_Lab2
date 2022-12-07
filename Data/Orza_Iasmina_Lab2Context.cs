@@ -21,6 +21,8 @@ namespace Orza_Iasmina_Lab2.Data
 
         public DbSet<Orza_Iasmina_Lab2.Models.Category> Category { get; set; }
 
+        public DbSet<Orza_Iasmina_Lab2.Models.Author> Author { get; set; }
+
        
     }
 }

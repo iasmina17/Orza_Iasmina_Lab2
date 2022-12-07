@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using Orza_Iasmina_Lab2.Data;
 using Orza_Iasmina_Lab2.Models;
 
-namespace Orza_Iasmina_Lab2.Pages
+namespace Orza_Iasmina_Lab2.Pages.Authors
 {
     public class IndexModel : PageModel
     {
